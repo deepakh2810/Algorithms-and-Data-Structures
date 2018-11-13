@@ -1,4 +1,3 @@
-
 public class LCS {
 
 		//Prints the subsequence with highest length 
