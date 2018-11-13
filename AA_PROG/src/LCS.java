@@ -1,5 +1,3 @@
-// Reference: https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
-
 public class LCS {
 
 		//Prints the subsequence with highest length 
